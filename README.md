@@ -2,7 +2,7 @@
 Repositorio criado durante disciplina de estrutura de dados 2 na faculdade para compreensão de estrutura/complexidade de algoritmos.
 ## Grafo e Floyd-Warshall
 ### Atividades composta pelo seguintes itens: 
-    1) Represente o grafo utilizando matriz ou lista de adjacência (opcional). Seu programa deve     imprimir o grafo carregado.
+    1) Represente o grafo utilizando matriz ou lista de adjacência (opcional). Seu programa deve imprimir o grafo carregado.
     2) Implemente o algoritmo de busca em profundidade;
         a. Implemente um método para retornar o número de arestas existentes entre o vértice de origem
     da DFS e um outro vértice destino.
