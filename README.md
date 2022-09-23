@@ -1,2 +1,2 @@
 # Estrutura-de-Dados
-Repositorio criado para estrutura de dados 
+Repositorio criado durante disciplina de estrutura de dados 2 na faculdade para compreensão de estrutura/complexidade de algoritmos.
